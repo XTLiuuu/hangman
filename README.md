@@ -2,12 +2,12 @@
 Hangman is a hangman game with GUI features. User needs to guess the password and selects the difficulty level before starting a new game. 
 
 # Screenshot 
-![screenshot] (screenshot.png)
+![screenshot](https://github.com/XTLiuuu/hangman/blob/master/screenshot.png)
 
 # Running the tests 
 java PA09
 
-(Password to start the game is "shadow".)
+(password to start the game is "shadow")
 
 # Built With 
 Java 
