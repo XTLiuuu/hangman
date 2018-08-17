@@ -9,8 +9,6 @@ java PA09
 
 (password to start the game is "shadow")
 
-# Built With 
-Java 
 
 # Future plans 
 1. add features of starting a new game 
